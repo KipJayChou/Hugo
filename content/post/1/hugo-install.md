@@ -1,10 +1,9 @@
-+++
+---
 date = '2024-12-08T23:09:48+08:00'
 draft = false
 title = 'Hugo Install'
-+++
-> [!NOTE]
->
+---
+
 > 1. Create a site
 > 2. Add content
 > 3. Configure the site
