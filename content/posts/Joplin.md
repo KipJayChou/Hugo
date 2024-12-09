@@ -1,3 +1,9 @@
++++
+date = '2024-12-09T16:09:48+08:00'
+draft = false
+title = 'Joplin Note'
++++
+
 ## 笔记软件选择？试试 Joplin！
 
 2024 年 10 月 4 日 (UTC)  
