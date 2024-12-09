@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Posts on KipJayChou HOME</title>
+    <link>https://hugo.kipjaychou.org/posts/</link>
+    <description>Recent content in Posts on KipJayChou HOME</description>
+    <generator>Hugo</generator>
+    <language>zh-cn</language>
+    <lastBuildDate>Sun, 08 Dec 2024 23:09:48 +0800</lastBuildDate>
+    <atom:link href="https://hugo.kipjaychou.org/posts/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Hugo Install</title>
+      <link>https://hugo.kipjaychou.org/posts/hugo-install/</link>
+      <pubDate>Sun, 08 Dec 2024 23:09:48 +0800</pubDate>
+      <guid>https://hugo.kipjaychou.org/posts/hugo-install/</guid>
+      <description>&lt;blockquote&gt;&#xA;&lt;p&gt;[!NOTE]&lt;/p&gt;&#xA;&lt;ol&gt;&#xA;&lt;li&gt;Create a site&lt;/li&gt;&#xA;&lt;li&gt;Add content&lt;/li&gt;&#xA;&lt;li&gt;Configure the site&lt;/li&gt;&#xA;&lt;li&gt;Publish the site&lt;/li&gt;&#xA;&lt;/ol&gt;&#xA;&lt;/blockquote&gt;&#xA;&lt;p&gt;我将在parallels desktop提供的Debian虚拟机上演示从安装配置到成型的过程：&lt;/p&gt;&#xA;&lt;ul&gt;&#xA;&lt;li&gt;&#xA;&lt;p&gt;安装HUGO&lt;/p&gt;&#xA;&lt;p&gt;安装hugo（扩展版或扩展/部署版，v0.128.0 或更高版本）&lt;/p&gt;&#xA;&lt;p&gt;官网：https://gohugo.io/installation/linux/&lt;/p&gt;&#xA;&lt;p&gt;要安装HUGO，必须先安装git，go，dart sass：&lt;/p&gt;&#xA;&lt;ul&gt;&#xA;&lt;li&gt;git：&#xA;&lt;ul&gt;&#xA;&lt;li&gt;Build Hugo from source&#xA;从源代码构建 Hugo&lt;/li&gt;&#xA;&lt;li&gt;Use the &lt;a href=&#34;https://gohugo.io/hugo-modules/&#34;&gt;Hugo Modules&lt;/a&gt; feature&#xA;使用 Hugo 模块功能&lt;/li&gt;&#xA;&lt;li&gt;Install a theme as a Git submodule&#xA;安装主题作为 Git 子模块&lt;/li&gt;&#xA;&lt;li&gt;Access &lt;a href=&#34;https://gohugo.io/methods/page/gitinfo/&#34;&gt;commit information&lt;/a&gt; from a local Git repository&#xA;从本地 Git 仓库访问提交信息&lt;/li&gt;&#xA;&lt;li&gt;Host your site with services such as &lt;a href=&#34;https://cloudcannon.com/&#34;&gt;CloudCannon&lt;/a&gt;, &lt;a href=&#34;https://pages.cloudflare.com/&#34;&gt;Cloudflare Pages&lt;/a&gt;, &lt;a href=&#34;https://pages.github.com/&#34;&gt;GitHub Pages&lt;/a&gt;, &lt;a href=&#34;https://docs.gitlab.com/ee/user/project/pages/&#34;&gt;GitLab Pages&lt;/a&gt;, and &lt;a href=&#34;https://www.netlify.com/&#34;&gt;Netlify&lt;/a&gt;&#xA;托管您的网站，使用 CloudCannon、Cloudflare Pages、GitHub Pages、GitLab Pages 和 Netlify 等服务&lt;/li&gt;&#xA;&lt;/ul&gt;&#xA;&lt;/li&gt;&#xA;&lt;li&gt;go：&#xA;&lt;ul&gt;&#xA;&lt;li&gt;Build Hugo from source&#xA;从源代码构建 Hugo&lt;/li&gt;&#xA;&lt;li&gt;Use the Hugo Modules feature&#xA;使用 Hugo 模块功能&lt;/li&gt;&#xA;&lt;/ul&gt;&#xA;&lt;/li&gt;&#xA;&lt;li&gt;Dart Sass：&#xA;&lt;ul&gt;&#xA;&lt;li&gt;Dart Sass is required to transpile Sass to CSS when using the latest features of the Sass language.&#xA;Dart Sass 是使用 Sass 语言的最新功能时将 Sass 转换为 CSS 所必需的。&lt;/li&gt;&#xA;&lt;/ul&gt;&#xA;&lt;/li&gt;&#xA;&lt;/ul&gt;&#xA;&lt;h4 id=&#34;安装hugo的方法&#34;&gt;安装hugo的方法：&lt;/h4&gt;&#xA;&lt;ol&gt;&#xA;&lt;li&gt;&#xA;&lt;p&gt;预构建的二进制文件&lt;/p&gt;</description>
+    </item>
+  </channel>
+</rss>

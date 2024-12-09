@@ -1,0 +1,4 @@
+baseURL = 'https://hugo.kipjaychou.org/'
+languageCode = 'zh-cn'
+title = 'KipJayChou HOME'
+theme = 'ananke'
