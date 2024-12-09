@@ -2,7 +2,7 @@
 date = '2024-12-09T20:22:48+08:00'
 draft = false
 title = 'Readme'
-pin: true
+pin = true
 summary: "whoami?"
 +++
 ## whoami?
