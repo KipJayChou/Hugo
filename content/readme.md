@@ -3,7 +3,7 @@ date = '2024-12-09T20:22:48+08:00'
 draft = false
 title = 'Readme'
 pin = true
-summary: "whoami?"
+summary = "whoami?"
 +++
 ## whoami?
 是一名Chinese学生，就读于JXUFE Cybersecurity major。
