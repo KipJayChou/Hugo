@@ -13,8 +13,7 @@
 
 **Edit Markdown offline**  
 
-[![Markor](https://linux.do/uploads/default/optimized/3X/8/3/83435a20e7d0e1b9b0083f68e2f62ff55424a0c5_2_690x385.jpeg)](https://linux.do/uploads/default/original/3X/8/3/83435a20e7d0e1b9b0083f68e2f62ff55424a0c5.jpeg "Markor")
-
+![OLsHnp.jpg](https://ooo.0x0.ooo/2024/12/09/OLsHnp.jpg)
 
 Google Play，T0 级别的 4.9 分高分  
 [Markor 下载地址](https://github.com/gsantner/markor)  
@@ -22,7 +21,7 @@ Google Play，T0 级别的 4.9 分高分
 
 ### 折腾一 Notion
 
-![Notion](https://linux.do/uploads/default/original/3X/e/b/eb8df8668a0482b290c0c859dd322d8359d9f198.png)  
+![OLs4Cj.webp](https://ooo.0x0.ooo/2024/12/09/OLs4Cj.webp)
 [Notion 官网](https://www.notion.so/zh-cn)  
 [Notion 中文论坛](https://cnotion.notion.site/Notion-e18268991cd14de89b1cad0de60baa91)  
 我先是使用了神乎其神的 **Notion**，**免费同步**确实十分稀缺难得，但发现写的笔记限制很多，高级功能要付费，也有些用不惯，等等。
@@ -33,10 +32,7 @@ Google Play，T0 级别的 4.9 分高分
 
 Obsidian
 
-![](https://linux.do/uploads/default/original/3X/f/1/f19d645d57db8f143840f527b98b528c89c8194d.png)  
-
-[![](https://linux.do/uploads/default/optimized/3X/b/8/b828d970b407c61b35a520e6e40bbc88891a5442_2_690x173.png)](https://linux.do/uploads/default/original/3X/b/8/b828d970b407c61b35a520e6e40bbc88891a5442.png)
-
+![OLsQkv.webp](https://ooo.0x0.ooo/2024/12/09/OLsQkv.webp)
 
 [Obsidian 官网](https://obsidian.md/)  
 [Obsidian 中文论坛](https://forum-zh.obsidian.md/)  
@@ -48,7 +44,8 @@ Obsidian
 
 ### 折腾三 Joplin
 
-![Joplin](https://linux.do/uploads/default/original/3X/6/3/6371b27a890cc1bec1b07b6ae9a211e03bef8b48.jpeg)  
+![OLstSx.jpg](https://ooo.0x0.ooo/2024/12/09/OLstSx.jpg)
+
 GitHub45.4K stars  
 [安装指南 PDF](https://file.uhsea.com/2410/234ee95d6c34bf5aa207ec8517f6dd97RR.pdf)  
 以及 F-droid,GitHub 和 uhsea.com 安装：
@@ -66,11 +63,11 @@ GitHub45.4K stars
 3.  于是先尝试了坚果云的 **Webdav**，但在电脑上同步时发现失败，并提示 **Webdav** 将在 PC 上不再支持，于是 **Webdav** 弃之。
     
 4.  再尝试了微软家的 **Onedrive**，虽然初始只有 **5G**，但如果只存笔记，而且笔记只有文字，没有什么文件图片的附件，也是够用的  
-    [注意 Onedrive，dropbox 无法在大陆网络环境下运行](https://answers.microsoft.com/zh-hans/msoffice/forum/all/onedrive%E4%B8%AD%E5%9B%BD%E6%97%A0%E6%B3%95/8383a475-7f10-41ee-aca2-1a036d7b1e48)
+    [注意 Onedrive，dropbox first time无法在大陆网络环境下运行](https://answers.microsoft.com/zh-hans/msoffice/forum/all/onedrive%E4%B8%AD%E5%9B%BD%E6%97%A0%E6%B3%95/8383a475-7f10-41ee-aca2-1a036d7b1e48)
     
 5.  另一个惊喜的发现是可自定义笔记本的图标，一开始以为只能用 **emoji**，结果能上传**图标**！于是作为定制疯狂粉，我收集了上百个图标，手机电脑端都能正常显示！  
     
-    [![icons展示拼接图片](https://linux.do/uploads/default/optimized/3X/5/8/58819e450aafec562fec04968d1b351ce47c4895_2_690x312.jpeg)](https://linux.do/uploads/default/original/3X/5/8/58819e450aafec562fec04968d1b351ce47c4895.jpeg "icons展示拼接图片")
+![OLssKM.jpg](https://ooo.0x0.ooo/2024/12/09/OLssKM.jpg)
     
     （图片使用安卓软件 [Image ToolBox](https://github.com/T8RIN/ImageToolbox/releases/tag/3.0.0) 拼接，图片托管由 [Img.tg](null) 存储）
     
@@ -80,7 +77,7 @@ GitHub45.4K stars
 
 6.  所以，我觉得 **Joplin** 的实际使用效果还是不错的，可谓**传统和创新**并驾齐驱，比如 **PC** 上的编辑模式，视图模式以及**编辑视图结合模式**还是不错的。  
     
-    [![编辑视图结合模式](https://linux.do/uploads/default/optimized/3X/7/f/7fea072a0da6867f7811a29dbdbed3c04d4b5f5d_2_690x431.png)](https://linux.do/uploads/default/original/3X/7/f/7fea072a0da6867f7811a29dbdbed3c04d4b5f5d.png "编辑视图结合模式")
+![OLsSpq.webp](https://ooo.0x0.ooo/2024/12/09/OLsSpq.webp)
     
     
     再就是生态了，**Joplin** 作为**开源软件**，生态还不错，可以刷刷 **forum**，看看 **plugins** 有 **Android，Ios，Macos，Windows，linux，Terminal，第三方等等全平台**覆盖  
@@ -88,29 +85,16 @@ GitHub45.4K stars
     [Joplin 论坛](https://discourse.joplinapp.org/)  
     [Joplin 插件](https://joplinapp.org/plugins/)
 7.  右上角可以直接通过复制**共享笔记的文本内容**，比较方便。  
-    
-    [![chou](https://linux.do/uploads/default/optimized/3X/7/9/79a4c7e1f0dd895ece97695e9cbbd2919fdaa107_2_675x500.jpeg)](https://linux.do/uploads/default/original/3X/7/9/79a4c7e1f0dd895ece97695e9cbbd2919fdaa107.jpeg "chou")
-    
-    
-    黏贴到其他地方也是没有问题的：  
-    
-    [![jay](https://linux.do/uploads/default/optimized/3X/c/7/c7069b67d67eeddd657dc6d6b41c1d110c8db2b4_2_516x500.jpeg)](https://linux.do/uploads/default/original/3X/c/7/c7069b67d67eeddd657dc6d6b41c1d110c8db2b4.jpeg "jay")
-    
+
 8.  相关软件  
     [Ruslin](https://f-droid.org/packages/org.dianqk.ruslin/)  
     (一个简单的笔记应用，支持使用本地部署的 Joplin 服务器同步笔记。)
 9.  在 firefox 或者 chrome 上使用 joplin 插件，**Joplin 网页剪藏器可以让您将浏览器中的网页和屏幕截图保存到 Joplin。**  
     
-    [![截屏2024-10-05 04.25.26](https://linux.do/uploads/default/optimized/3X/5/f/5f0880622908eac8a28285ce2041ff2c1c3a4027_2_690x431.jpeg)](https://linux.do/uploads/default/original/3X/5/f/5f0880622908eac8a28285ce2041ff2c1c3a4027.jpeg "截屏2024-10-05 04.25.26")
-    
-      
-    
-    [![截屏2024-10-05 04.26.31](https://linux.do/uploads/default/optimized/3X/4/0/40e016d8d56d8b5efda0d3a0454cd9e2fae0143a_2_690x431.jpeg)](https://linux.do/uploads/default/original/3X/4/0/40e016d8d56d8b5efda0d3a0454cd9e2fae0143a.jpeg "截屏2024-10-05 04.26.31")
-    
+![OLsLDU.jpg](https://ooo.0x0.ooo/2024/12/09/OLsLDU.jpg)
 
 ### 番外 - 蜜蜂便签
 
-![O48Cy6.png](https://linux.do/uploads/default/original/3X/5/9/59d27e9fb3da59af46d4617add83e8c205b75ca1.png)  
 其实我最早使用的笔记软件其实是**蜜蜂便签**，还为此充了会员（  
 其实蜜蜂便签这个软件也是不错的，同样支持.**md** 可定制的地方也不少，评分也不错，可以作为**入门级**安卓笔记软件试试。  
 [酷安下载](https://www.coolapk.com/apk/xyz.hanks.note)  
