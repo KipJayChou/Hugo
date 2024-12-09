@@ -1,7 +1,7 @@
 ---
-date = '2024-12-08'
-draft = false
-title = 'Hugo Install'
+date: '2024-12-08'
+draft: false
+title: 'Hugo Install'
 ---
 
 > 1. Create a site
