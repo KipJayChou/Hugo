@@ -1,5 +1,5 @@
 ---
-date = '2024-12-08T23:09:48+08:00'
+date = '2024-12-08'
 draft = false
 title = 'Hugo Install'
 ---
