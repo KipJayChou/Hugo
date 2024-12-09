@@ -1,7 +1,7 @@
-baseURL = 'https://hugo.kipjaychou.org/'
+baseURL = 'https://kipjaychou.io/Hugo/'
 languageCode = 'zh-cn'
 title = 'KipJayChou HOME'
-theme = 'ananke'
+theme = 'github-style'
 
 
 
